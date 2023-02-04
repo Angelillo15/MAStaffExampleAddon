@@ -1,0 +1,4 @@
+# Example config file for the addon
+# Here you can set the default values for the addon
+Config:
+  example: "example"
