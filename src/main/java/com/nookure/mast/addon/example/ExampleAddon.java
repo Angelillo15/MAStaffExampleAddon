@@ -19,7 +19,7 @@ import java.util.Objects;
     // Addon name/id (must be unique) (required)
     name = "ExampleAddon",
     // Addon version (required)
-    version = "${version}",
+    version = Constants.VERSION,
     // Addon author (required)
     author = "Nookure",
     // Addon description (optional)
